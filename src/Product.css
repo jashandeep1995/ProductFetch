@@ -1,0 +1,15 @@
+.box
+{
+    width: 250px;
+    margin: 25px;
+    text-align: center;
+    border:solid 1px gray;
+    display: inline-block;
+    font-size: 25px;
+    box-shadow: 0 5px 2px gray;
+}
+.productImage
+{
+    width: 250px;
+    height: 250px;
+}
